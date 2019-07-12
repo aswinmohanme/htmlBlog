@@ -1,7 +1,10 @@
 module.exports = {
-  theme: {
-    extend: {}
-  },
-  variants: {},
-  plugins: []
+    theme: {
+        fontFamily: {
+            'sans': ['Rubik',  'sans-serif']
+        },
+        extend: {}
+    },
+    variants: {},
+    plugins: []
 }
